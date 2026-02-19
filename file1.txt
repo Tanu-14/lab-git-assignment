@@ -1,1 +1,2 @@
-This line is edited from Branch B
+This file contains edits from both Branch A and Branch B.
+
